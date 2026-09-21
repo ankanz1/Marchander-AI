@@ -1142,12 +1142,7 @@ AI Negotiation Agent
   Digital Commerce
 ```
 
----
 
-# Disclaimer
-
-Market sizes, business-impact percentages, performance targets, and projected benefits in this project are **illustrative/project targets unless independently validated through real-world testing or cited research**. They should not be interpreted as guaranteed commercial results.
-```
 
 ---
 
