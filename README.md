@@ -1,5 +1,3 @@
-# Marchander-AI
-
 # Marchander AI
 
 ```
@@ -1148,9 +1146,7 @@ AI Negotiation Agent
 
 # Disclaimer
 
-Market sizes, business-impact percentages, performance targets, and projected benefits in this project are **illustrative/project targets unless independently validated through real-world testing or cited research**. They should not be interpreted as guaranteed commercial results
-
-```text
+Market sizes, business-impact percentages, performance targets, and projected benefits in this project are **illustrative/project targets unless independently validated through real-world testing or cited research**. They should not be interpreted as guaranteed commercial results.
 ```
 
 ---
