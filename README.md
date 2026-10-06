@@ -1,7 +1,7 @@
 # Marchander AI
 
 ```
-> Voice-first AI negotiation for the next generation of e-commerce.
+Voice-first AI negotiation for the next generation of e-commerce.
 ```
 
 Marchander AI brings the traditional Indian bargaining experience into digital commerce. Instead of accepting fixed prices, users can **speak naturally, make offers, negotiate with an AI agent, and receive a negotiated price directly in their cart.**
