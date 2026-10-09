@@ -47,13 +47,13 @@ Marchander AI is a **voice-enabled AI negotiation agent for e-commerce**.
 A customer can simply say:
 
 ```
-> "Can you give me this jacket for ₹900?"
+"Can you give me this jacket for ₹900?"
 ```
 
 Marchander AI understands the request, evaluates the offer, generates a counter-offer, and responds naturally:
 
 ```
-> "I can give it for ₹1,050. That's my best offer."
+"I can give it for ₹1,050. That's my best offer."
 ```
 
 The conversation can continue until the customer and AI reach an acceptable price.
