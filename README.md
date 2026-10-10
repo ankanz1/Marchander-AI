@@ -4,7 +4,7 @@
 Voice-first AI negotiation for the next generation of e-commerce.
 ```
 
-Marchander AI brings the traditional Indian bargaining experience into digital commerce. Instead of accepting fixed prices, users can **speak naturally, make offers, negotiate with an AI agent, and receive a negotiated price directly in their cart.**
+Marchander AI brings the traditional Indian bargaining experience into digital commerce. Instead of accepting fixed prices, users can **speak naturally, make offers, negotiate with an AI agent, and receive a negotiated price directly in their cart.
 
 ---
 
@@ -592,7 +592,7 @@ Potential project targets include:
 * **24/7** automated negotiation availability
 
 ```
-> These figures are project targets/illustrative assumptions and should be validated through real-world pilots.
+These figures are project targets/illustrative assumptions and should be validated through real-world pilots.
 ```
 
 ---
