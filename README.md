@@ -371,7 +371,6 @@ Used for:
 
 ## Web3 — Optional
 
-* Celo
 * cUSD
 * Solidity
 * Hardhat
@@ -382,7 +381,7 @@ Used for:
 ## Deployment
 
 * Docker
-* Railway / Render
+* Render
 * GitHub Actions
 * GitHub
 
