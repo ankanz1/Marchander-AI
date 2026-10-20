@@ -343,8 +343,7 @@ The seller therefore retains control over the minimum acceptable price.
 
 ### Text-to-Speech
 
-* ElevenLabs
-* Google Text-to-Speech
+* ElevenLab
 
 ## Database
 
